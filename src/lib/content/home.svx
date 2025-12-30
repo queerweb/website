@@ -1,0 +1,103 @@
+<script>
+	import Project from '$lib/components/ProjectComingSoon.svelte';
+	import Person from '$lib/components/Person.svelte';
+	import Button from '$lib/components/88x31.svelte';
+</script>
+
+# The Queer Web
+
+Hi! The Queer Web is an initative to bring free services to queer folks on the web. We currently offer free secure file hosting and sharing, with plans to expand to more services such as hosting in the near future.
+
+We support the open web and think everyone deserves freedom on the internet, even queer people. We are fiscally transparent and completely open source
+
+
+## Projects/Services
+
+<Project 
+	name="notes.gay" 
+	link="https://github.com/example/queerweb" 
+	description="Free and secure file hosting and sharing for queer people"
+/>
+
+<br><br>
+
+<Button 
+	image="/ivie.png" 
+	link="https://ivie.codes" 
+	alt="Ivie button"
+/>
+
+<Button 
+	image="/trans.png" 
+	link="#" 
+	alt="Trans rights button"
+/>
+
+<Button
+	image="/queer.png"
+	link="#"
+	alt="Queer button"
+/>
+
+<Button
+	image="/pride.png"
+	link="#"
+	alt="Pride button"
+/>
+
+<Button
+	image="/privacy.png"
+	link="#"
+	alt="Privacy button"
+/>
+
+<Button
+	image="/cat.png"
+	link="#"
+	alt="Cat button"
+/>
+
+<Button
+	image="/gay.gif"
+/>
+
+<Button
+	image="/transyourgender.gif"
+/>
+
+<Button
+	image="/transflag.png"
+/>
+
+<Button
+	image="/queerpride.gif"
+/>
+
+<Button
+	image="/rainbow.gif"
+/>
+
+<Button
+	image="/enby.png"
+/>
+
+
+<Button
+	image="/heart.png"
+/>
+
+
+<Button
+	image="/progress.png"
+/>
+
+<Button
+	image="/bi.png"
+/>
+
+<Button
+	image="/aroace.png"
+/>
+
+
+
