@@ -15,7 +15,10 @@
 		"Being gay is natural. Being homophobic is not.",
 		"We're here, We're queer, deal with it.",
 		"Trans women are women.",
-		"Trans men are men."
+		"Trans men are men.",
+		"Trans rights NOW!",
+		"Privacy is a fundamental human right.",
+		"Gender affirming care saves lives."
 	];
 
 	let quoteIndex = Math.floor(Math.random() * quotes.length);
