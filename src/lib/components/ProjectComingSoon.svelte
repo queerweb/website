@@ -88,4 +88,12 @@
 		color: #6c7086;
 		line-height: 1.5;
 	}
+
+	@media (max-width: 768px) {
+		.project-card {
+			width: 100%;
+			margin: 0.5rem 0;
+			transform: none;
+		}
+	}
 </style>

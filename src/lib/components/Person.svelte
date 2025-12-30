@@ -94,4 +94,12 @@
 		color: #a6adc8;
 		line-height: 1.5;
 	}
+
+	@media (max-width: 768px) {
+		.person-card {
+			width: 100%;
+			margin: 0.5rem 0;
+			transform: none;
+		}
+	}
 </style>

@@ -44,4 +44,15 @@
 		min-height: 100vh;
 		background-color: #1e1e2e;
 	}
+
+	@media (max-width: 768px) {
+		.pride-panel {
+			display: none;
+		}
+
+		.content {
+			width: 100%;
+			margin-left: 0;
+		}
+	}
 </style>

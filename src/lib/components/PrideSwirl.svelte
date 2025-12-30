@@ -5,13 +5,17 @@
 
 	const quotes = [
 		"You're telling me a queer coded this?",
-		"Made with love (and with pride)",
-		"Trangender for everyone",
-		"Happy New Year!",
-		"The A is for Asexual",
-		"Trans rights or I bites",
+		"Made with love (and with pride).",
+		"Trangender for everyone.",
+		"Happy New Years!",
+		"The A is for Asexual.",
+		"Trans rights or I bites.",
 		"You are perfect.",
-		"Every month is pride month"
+		"Every month is pride month.",
+		"Being gay is natural. Being homophobic is not.",
+		"We're here, We're queer, deal with it.",
+		"Trans women are women.",
+		"Trans men are men."
 	];
 
 	let quoteIndex = Math.floor(Math.random() * quotes.length);
