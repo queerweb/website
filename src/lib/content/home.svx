@@ -2,13 +2,14 @@
 	import Project from '$lib/components/ProjectComingSoon.svelte';
 	import Person from '$lib/components/Person.svelte';
 	import Button from '$lib/components/88x31.svelte';
+	import ClickButton from '$lib/components/Button.svelte';
 </script>
 
 # The Queer Web
 
-Hi! The Queer Web is an initative to bring free services to queer folks on the web. We currently offer free secure file storage and sharing, with plans to expand to more services such as hosting and email in the near future.
+Hi! The Queer Web is an initative to bring free services to queer folks on the web. We are currently working on offering free secure file storage and sharing, with plans to expand to more services such as hosting and email in the near future.
 
-We support the open web and think everyone deserves freedom on the internet, even queer people. We are fiscally transparent and completely open source
+We support the open web and think everyone deserves freedom on the internet, even queer people. We are financially transparent and completely open source
 
 
 ## Projects/Services
@@ -18,6 +19,33 @@ We support the open web and think everyone deserves freedom on the internet, eve
 	link="https://github.com/example/queerweb" 
 	description="Free and secure file hosting and sharing for queer people"
 />
+
+## The Panic Button
+
+The panic buttons allows you to quickly sign out all of your devices, lock your accounts, or delete all of your data across all of our services in the case of an emergency.
+<ClickButton
+	text="Sign out all devices"
+	url="javascript:alert('Coming soon!')"
+/>
+<ClickButton
+	text="Lock your account"
+	url="javascript:alert('Coming soon!')"
+/>
+<ClickButton
+	text="Delete stored data"
+	url="javascript:alert('Coming soon!')"
+/>
+
+## Contacting us
+
+Whether you want to submit a quote or 88x31 for our homepage, Have an idea you want to suggest, or just want to chat, you can email us at team@queerweb.org
+
+## More Pages
+
+- [Frequently Asked Questions](/faq)
+- [Resources for Queer Teens](/resources)
+- [Our Github](https://github.com/queerweb)
+
 
 <br><br>
 

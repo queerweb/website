@@ -1,6 +1,6 @@
 <script>
 	import PrideSwirl from '$lib/components/PrideSwirl.svelte';
-	import HomeContent from '$lib/content/home.svx';
+	import Content from '$lib/content/faq.svx';
 </script>
 
 <div class="container">
@@ -8,7 +8,7 @@
 		<PrideSwirl />
 	</div>
 	<div class="content">
-		<HomeContent />
+		<Content />
 	</div>
 </div>
 

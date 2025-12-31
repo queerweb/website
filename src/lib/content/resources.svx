@@ -1,0 +1,27 @@
+<script>
+	import BackToHome from '$lib/components/BackToHome.svelte';
+</script>
+
+<BackToHome />
+
+# Resources for Queer Teens
+
+## Hotlines
+
+If you or a loved one is in immediate danger, contact emergency services immediately. Dial 911 in the US, 112 in the EU, or 999 in the UK
+
+- [The Trevor Project](https://www.thetrevorproject.org/get-help/): 24/7 Suicide hotline for queer youth. Supports calling, texting, or online messaging.
+- [Trans Lifeline](https://translifeline.org/hotline/): Peer support hotline ran by trans people for trans people. Supports calling and texting.
+
+## Coming out
+
+- [The Coming Out Handbook (Trevor Project)](https://www.thetrevorproject.org/resources/guide/the-coming-out-handbook/)
+- [Coming out (TransHub)](https://www.transhub.org.au/social/coming-out/)
+- [Coming out (Trangender Teen Survival Guide)](https://transgenderteensurvivalguide.com/comingout) 
+
+## Gender Questioning/Dysphoria
+
+- [That's Gender Dysphoria, FYI](https://genderdysphoria.fyi/) - Amazing resource on Gender Dysphoria
+- [How To Figure Out If You're Trans](https://stainedglasswoman.substack.com/p/how-to-figure-out-if-youre-trans)
+- [Turn me into a girl](https://turn-me-into-a-girl.com/)
+- [Turn me into a guy](https://turn-me-into-a-guy.com/)

@@ -1,0 +1,19 @@
+<script>
+	import BackToHome from '$lib/components/BackToHome.svelte';
+</script>
+
+<BackToHome />
+
+# Frequently Asked Questions
+
+## How is this free?
+
+We are funded by donations. We will never charge you money, steal your data, or show you ads.
+
+## How can I help out?
+
+All of our projects are [open source](https://github.com/queerweb), so you can contribute on Github. You can also donate, or contact us (team@queerweb.org) if you are interested in joining our team.
+
+## What are your plans for the future?
+
+Our top priority at the moment is getting notes.gay and the panic button up and running. Once those are complete, we will move on to new projects to support queer people on the internet.
