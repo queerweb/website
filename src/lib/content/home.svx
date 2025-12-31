@@ -50,6 +50,12 @@ Have an idea you want to pitch, or a quote to add to the homepage, or just want 
 <br><br>
 
 <Button 
+	image="queeragain.png" 
+	link="#" 
+	alt="Queerweb button"
+/>
+
+<Button 
 	image="ivie.png" 
 	link="https://ivie.codes" 
 	alt="Ivie button"
@@ -125,6 +131,34 @@ Have an idea you want to pitch, or a quote to add to the homepage, or just want 
 
 <Button
 	image="aroace.png"
+/>
+
+<Button
+	image="pridenow.gif"
+/>
+
+<Button
+	image="sitegay.gif"
+/>
+
+<Button
+	image="gayflag.gif"
+/>
+
+<Button
+	image="asexual.gif"
+/>
+
+<Button
+	image="autism.jpg"
+/>
+
+<Button
+	image="lesbian.png"
+/>
+
+<Button
+	image="svelte.gif"
 />
 
 
