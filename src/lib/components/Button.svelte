@@ -55,6 +55,7 @@
 	@media (max-width: 768px) {
 		.button {
 			transform: none;
+			margin-bottom: 5px;
 		}
 	}
 </style>
