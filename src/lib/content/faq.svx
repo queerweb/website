@@ -12,7 +12,7 @@ We are funded by donations. We will never charge you money, steal your data, or 
 
 ## How can I help out?
 
-All of our projects are [open source](https://github.com/queerweb), so you can contribute on Github. You can also donate, or contact us (team@queerweb.org) if you are interested in joining our team.
+All of our projects are [open source](https://github.com/queerweb), so you can contribute on Github. You can finacially support us by donating. If you are interested in joining our team, [contact us.](http://localhost:5173/#contacting-us)
 
 ## What are your plans for the future?
 
