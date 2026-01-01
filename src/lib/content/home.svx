@@ -8,9 +8,9 @@
 
 # The Queer Web
 
-Hi! The Queer Web is an initative to bring free services to queer folks on the web. We are currently working on offering free secure file storage and sharing, with plans to expand to more services such as hosting and email in the near future.
+Hi! The Queer Web is an initative to bring free services to queer folks on the web. We are currently offer private search, and we are working on a platform to provide free and secure file storage and sharing. We have plans to expand to more services such as hosting and email in the near future.
 
-We support the open web and think everyone deserves freedom on the internet, even queer people. We are financially transparent and completely open source
+We support the open web and think everyone deserves freedom on the internet, even queer people. We are financially transparent and [completely open source](https://github.com/queerweb/)
 
 
 ## Projects/Services
